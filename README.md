@@ -6,8 +6,7 @@ With the rise of data analytics in sports, the Expected Goals (xG) metric has em
 ## Dataset:
 The dataset for this analysis encompasses multiple variables related to shots, goals, team standings, and more, across nine seasons:
 
-- **Total Data Points:** [Number of total data points]
-- **Teams Analysed:** [Number of teams]
+- **Teams Analysed:** 11 teams that have stayed within the English Premier League and have not been relegated for 9 consecutive years
 - **Seasons Covered:** 2014 to 2023
 ## Analysis Approach:
 My analysis focuses on understanding and evaluating:
